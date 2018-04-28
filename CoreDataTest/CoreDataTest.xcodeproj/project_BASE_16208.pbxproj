@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AC4BDC932094320C006A2437 /* TestTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = AC4BDC922094320C006A2437 /* TestTwo.m */; };
 		B7128E59207B0D9300D09A8B /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = B7128E58207B0D9300D09A8B /* Person.m */; };
 		B7128E68207B5AF500D09A8B /* Student+CoreDataClass.m in Sources */ = {isa = PBXBuildFile; fileRef = B7128E62207B5AF500D09A8B /* Student+CoreDataClass.m */; };
 		B7128E69207B5AF500D09A8B /* Student+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = B7128E63207B5AF500D09A8B /* Student+CoreDataProperties.m */; };
@@ -48,8 +47,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		AC4BDC912094320C006A2437 /* TestTwo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestTwo.h; sourceTree = "<group>"; };
-		AC4BDC922094320C006A2437 /* TestTwo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestTwo.m; sourceTree = "<group>"; };
 		B7128E57207B0D9300D09A8B /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		B7128E58207B0D9300D09A8B /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		B7128E60207B5AF500D09A8B /* Student+CoreDataProperties.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Student+CoreDataProperties.h"; sourceTree = "<group>"; };
@@ -129,8 +126,6 @@
 				B7128E65207B5AF500D09A8B /* Company+CoreDataClass.h */,
 				B7128E66207B5AF500D09A8B /* Company+CoreDataClass.m */,
 				B7128E67207B5AF500D09A8B /* Company+CoreDataProperties.m */,
-				AC4BDC912094320C006A2437 /* TestTwo.h */,
-				AC4BDC922094320C006A2437 /* TestTwo.m */,
 				B7520ECC20724FBD00A70A45 /* COCOCOCO */,
 				B7520EE520724FBD00A70A45 /* COCOCOCOTests */,
 				B7520EF020724FBD00A70A45 /* COCOCOCOUITests */,
@@ -347,7 +342,6 @@
 				B72875CF2078E37400B3D598 /* WeakProxy.m in Sources */,
 				B72875D22078E77B00B3D598 /* MSWeakTimer.m in Sources */,
 				B72875CC2078DEA500B3D598 /* NSTimer+XB_BlockTimer.m in Sources */,
-				AC4BDC932094320C006A2437 /* TestTwo.m in Sources */,
 				B7520EDD20724FBD00A70A45 /* main.m in Sources */,
 				B7520ECF20724FBD00A70A45 /* AppDelegate.m in Sources */,
 				B7128E6B207B5AF500D09A8B /* Company+CoreDataProperties.m in Sources */,
