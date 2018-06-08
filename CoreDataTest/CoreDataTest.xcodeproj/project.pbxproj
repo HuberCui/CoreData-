@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AC4BDC932094320C006A2437 /* TestTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = AC4BDC922094320C006A2437 /* TestTwo.m */; };
 		AC562BF320CA75F8005C4BC0 /* AAAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC562BF220CA75F8005C4BC0 /* AAAViewController.m */; };
+		AC562BF620CA7F4D005C4BC0 /* DevelopViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC562BF520CA7F4D005C4BC0 /* DevelopViewController.m */; };
 		B7128E59207B0D9300D09A8B /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = B7128E58207B0D9300D09A8B /* Person.m */; };
 		B7128E68207B5AF500D09A8B /* Student+CoreDataClass.m in Sources */ = {isa = PBXBuildFile; fileRef = B7128E62207B5AF500D09A8B /* Student+CoreDataClass.m */; };
 		B7128E69207B5AF500D09A8B /* Student+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = B7128E63207B5AF500D09A8B /* Student+CoreDataProperties.m */; };
@@ -53,6 +54,8 @@
 		AC4BDC922094320C006A2437 /* TestTwo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestTwo.m; sourceTree = "<group>"; };
 		AC562BF120CA75F8005C4BC0 /* AAAViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AAAViewController.h; sourceTree = "<group>"; };
 		AC562BF220CA75F8005C4BC0 /* AAAViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AAAViewController.m; sourceTree = "<group>"; };
+		AC562BF420CA7F4D005C4BC0 /* DevelopViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DevelopViewController.h; sourceTree = "<group>"; };
+		AC562BF520CA7F4D005C4BC0 /* DevelopViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DevelopViewController.m; sourceTree = "<group>"; };
 		B7128E57207B0D9300D09A8B /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		B7128E58207B0D9300D09A8B /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		B7128E60207B5AF500D09A8B /* Student+CoreDataProperties.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Student+CoreDataProperties.h"; sourceTree = "<group>"; };
@@ -136,6 +139,8 @@
 				AC4BDC922094320C006A2437 /* TestTwo.m */,
 				AC562BF120CA75F8005C4BC0 /* AAAViewController.h */,
 				AC562BF220CA75F8005C4BC0 /* AAAViewController.m */,
+				AC562BF420CA7F4D005C4BC0 /* DevelopViewController.h */,
+				AC562BF520CA7F4D005C4BC0 /* DevelopViewController.m */,
 				B7520ECC20724FBD00A70A45 /* COCOCOCO */,
 				B7520EE520724FBD00A70A45 /* COCOCOCOTests */,
 				B7520EF020724FBD00A70A45 /* COCOCOCOUITests */,
@@ -342,6 +347,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC562BF620CA7F4D005C4BC0 /* DevelopViewController.m in Sources */,
 				B7128E69207B5AF500D09A8B /* Student+CoreDataProperties.m in Sources */,
 				B7128E6A207B5AF500D09A8B /* Company+CoreDataClass.m in Sources */,
 				B72875C62078BA2900B3D598 /* SecViewController.m in Sources */,
