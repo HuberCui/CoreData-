@@ -5,7 +5,7 @@
 //  Created by Xuebin Cui on 2018/4/9.
 //  Copyright © 2018年 Xuebin Cui. All rights reserved.
 //
-//master-dev0
+//AAAA周五
 
 #import <Foundation/Foundation.h>
 #import <CoreData/CoreData.h>
